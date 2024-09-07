@@ -1,0 +1,39 @@
+rely,
+
+[Your Full Name]
+[Your Student ID]
+[Your Contact Information]
+
+User
+i have done payment for my supplymentary exam of 3rd year 2nd sem. but  money is cut from my account but in portal there show that psyment is not received. write a mail to the COE for this issue .
+ChatGPT
+Subject: Urgent: Payment Discrepancy for 3rd Year 2nd Semester Supplementary Exam
+
+Dear [COE's Full Name],
+
+I trust this email finds you well. My name is [Your Full Name], and I am a student currently enrolled in the [Your University/College] pursuing [Your Course/Program]. I am writing to bring to your attention a pressing issue I have encountered concerning the payment for my 3rd Year 2nd Semester Supplementary Exam.
+
+On [Date], I initiated a payment of [Amount] for the aforementioned supplementary exam through the online payment portal. The transaction was processed successfully, and the amount was debited from my bank account. However, upon checking the portal, it still reflects that the payment has not been received.
+
+Transaction Details:
+
+Transaction ID: [Transaction ID]
+Amount: [Amount]
+Date and Time: [Date and Time]
+I have attached a copy of the transaction receipt for your reference.
+
+[Attach Transaction Receipt]
+
+I am reaching out to seek your assistance in resolving this matter promptly, as the supplementary exam is crucial for my academic progress. I am concerned that the delay in updating the payment status may impact my eligibility to appear for the exam.
+
+If there is any additional information or documentation required from my side, please let me know, and I will provide it promptly.
+
+Your urgent attention to this matter is highly appreciated. I look forward to a swift resolution and appreciate your assistance in ensuring a smooth process for the upcoming examination.
+
+Thank you for your time and understanding.
+
+Sincerely,
+
+[Your Full Name]
+[Your Student ID]
+[Your Contact Information]
